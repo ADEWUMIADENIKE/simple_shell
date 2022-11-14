@@ -1,7 +1,7 @@
 /*
  * File: builtin.c
  * Auth: Ddluwole
- *       ADEWUMADENIKE
+ *       ADEWUMIADENIKE
  */
 
 #include "shell.h"
